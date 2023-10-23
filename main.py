@@ -11,8 +11,8 @@ def main():
     f_per = female * 100 / total 
     m_per = male * 100 / total
 
-    print(f'Female Percentage is: {f_per:.2f}')
-    print(f'Male Percentage is: {m_per:.2f} ')
+    print(f'Female Percentage is:\t{f_per:.2f}')
+    print(f'Male Percentage is: \t{m_per:.2f} ')
 
     """
     ########################################
